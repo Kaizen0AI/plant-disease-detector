@@ -25,7 +25,9 @@ A web application built with Streamlit and TensorFlow that identifies plant dise
 
 ## Screenshot
 
-*Add a screenshot of the application here.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2c3bfa8-c4c5-452c-a1e5-e1c4aab57323" width="600">
+</p>
 
 ## Installation
 
