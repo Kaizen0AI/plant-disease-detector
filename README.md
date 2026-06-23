@@ -2,6 +2,10 @@
 
 A web application built with Streamlit and TensorFlow that identifies plant diseases from leaf images using a fine-tuned MobileNetV2 model.
 
+## Live Demo
+
+https://phrowcrhkashazfqsgxaja.streamlit.app/
+
 ## Features
 
 * Upload a leaf image (`.jpg`, `.jpeg`, `.png`)
